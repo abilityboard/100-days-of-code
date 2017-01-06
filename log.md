@@ -15,3 +15,11 @@
 **Thoughts:** Next I need to figure out how to insert the appropriate icon for the conditions.
 
 **Link to work:** [Current Weather](http://codepen.io/smauer/full/ggbgwG/)
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: Not much, mostly reading and figuring things out. Did a few of the Intermediate Algorithm Scripting steps for fun.
+
+**Thoughts:**: Some days there's just not much visible progress.  
+
+**Link to work:** Nope, nothing today. Just plotting and trying to learn.
