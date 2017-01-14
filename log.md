@@ -23,3 +23,17 @@
 **Thoughts:**: Some days there's just not much visible progress.  
 
 **Link to work:** Nope, nothing today. Just plotting and trying to learn.
+
+### Days 4 - 6
+
+**Progress**: A few more tutorials/courses from Javascript30 and FreeCodeCamp.
+
+**Thoughts**: Need to learn more to better myself, but just learned I have to prioritize certain things I'd rather not.
+
+### Day 7: January 14, 2017
+
+**Today's Progress**: Skipped over tutorials and courses.  Decided to play around and try to make a random game. Mostly successful, identified things I'd like to learn more about.
+
+**Thoughts:**: Sometimes you just need to stop and have fun.
+
+**Link to work:** [Random Game](http://codepen.io/smauer/full/egzLgj/)
